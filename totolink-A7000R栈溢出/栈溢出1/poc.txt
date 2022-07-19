@@ -1,0 +1,2 @@
+qemu-mipsel-static  -L '/home/iot/Desktop/T
+OTOLINK/totolink/A7000R_V9.1.0u.6115_B20201022/_TOTOLINK_C8340R-1C_A7000R_IP04349_MT7621A_SPI_16M128M_V9.1.0u.6115_B20201022_ALL.web.extracted/squashfs-root'  ./switch acl dip meter aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 11111111 2222222
